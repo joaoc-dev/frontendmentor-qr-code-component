@@ -86,8 +86,9 @@ main {
 
 footer { 
     font-size: 1.3rem; 
-    text-align: center; 
     align-self: end;
+    justify-self: center;
+    text-align: center;
 }
 
 footer a { 
